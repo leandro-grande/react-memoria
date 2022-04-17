@@ -1,1 +1,3 @@
-Projeto de estudo "Jogo da memória"
+# Projeto jogo da memória
+
+Este projeto foi feito em aula.
